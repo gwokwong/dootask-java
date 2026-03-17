@@ -34,12 +34,10 @@
 # 1、克隆项目到您的本地或服务器
 
 # 通过github克隆项目
-git clone --depth=1 https://github.com/kuaifan/dootask.git
-# 或者你也可以使用gitee
-git clone --depth=1 https://gitee.com/aipaw/dootask.git
+git clone --depth=1 https://github.com/gwokwong/dootask-java.git
 
 # 2、进入目录
-cd dootask
+cd dootask-java
 
 # 3、一键安装项目（自定义端口安装，如：./cmd install --port 80）
 ./cmd install
