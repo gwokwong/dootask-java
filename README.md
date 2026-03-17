@@ -34,9 +34,7 @@ English | **[中文文档](./README_CN.md)**
 # 1、Clone the project to your local machine or server
 
 # Clone project from GitHub
-git clone --depth=1 https://github.com/kuaifan/dootask.git
-# Or you can use Gitee
-git clone --depth=1 https://gitee.com/aipaw/dootask.git
+git clone --depth=1 https://github.com/gwokwong/dootask-java.git
 
 # 2、Enter directory
 cd dootask
