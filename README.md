@@ -37,7 +37,7 @@ English | **[中文文档](./README_CN.md)**
 git clone --depth=1 https://github.com/gwokwong/dootask-java.git
 
 # 2、Enter directory
-cd dootask
+cd dootask-java
 
 # 3、One-click installation (Custom port installation: ./cmd install --port 80)
 ./cmd install
