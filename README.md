@@ -1,3 +1,7 @@
+# Java Spring Boot Refactor of DooTask
+
+We are refactoring the original PHP backend into a Java Spring Boot version. Please feel free to contact us if you're interested.
+
 # DooTask - Open Source Task Management System
 
 English | **[中文文档](./README_CN.md)**
