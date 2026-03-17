@@ -1,3 +1,7 @@
+# DooTask的java重构版本
+
+使用java springboot 将原有的php后台重构，有需要的联系。
+
 # DooTask - 开源任务管理系统
 
 **[English](./README.md)** | 中文文档
